@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **pikeyang/pikeyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +13,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=pikeyang&theme=radical) 
+![pikeyang's github stats](https://github-readme-stats.vercel.app/api?username=pikeyang&show_icons=true&theme=radical&count_private=true)
+![pikeyang's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pikeyang&show_icons=true&theme=radical&layout=compact)  
